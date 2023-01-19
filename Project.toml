@@ -1,0 +1,4 @@
+name = "RegressionTools"
+uuid = "fd33bbc0-557c-44c4-8f18-54886beb6500"
+authors = ["Gabe Hassler <ghassler@rand.org>"]
+version = "0.1.0"
